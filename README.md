@@ -1,3 +1,3 @@
-![](https://Req1630.com/ghpvc/?username=your-github-username&color-buleviolet)
+![](https://komarev.com/ghpvc/?username=Req1630-github-Req1630&color=blueviolet&style=plastic)
 
 
