@@ -1,9 +1,8 @@
+## Hi there 👋
 
 <p alugn="left">
     <img src="https://komarev.com/ghpvc/?username=Req1630&color=blueviolet&style=plastic" />
 </p>
-
----  
 
 <p alugn="left">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Req1630&layout=donut&show_icons=true&theme=dark" />
