@@ -23,7 +23,3 @@
     <img src="https://typograssy.kawarimidoll.deno.net/api?scheme=dark&text=Hello%20world!&comment=Req1630...&comment-color=ffffff" />
 </p>
 
-<p alugn="left">
-    <img src="https://komarev.com/ghpvc/?username=Req1630&color=blueviolet&style=plastic" />
-</p>
-
