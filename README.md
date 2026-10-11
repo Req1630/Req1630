@@ -3,8 +3,8 @@
 ### 📊 GitHub Stats.
 
 <p alugn="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Req1630&layout=donut&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Req1630&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats-umber-rho-23.vercel.app/api/top-langs/?username=Req1630&layout=donut&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats-umber-rho-23.vercel.app/api?username=Req1630&show_icons=true&theme=dark" />
 </p>
 
 ### 📖 Languages.
